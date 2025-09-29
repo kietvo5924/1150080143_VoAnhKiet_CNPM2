@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\bin\Debug\1150080143_VoAnhKiet_lab2.exe.config
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\bin\Debug\1150080143_VoAnhKiet_lab2.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\bin\Debug\1150080143_VoAnhKiet_lab2.pdb
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\obj\Debug\1150080143_VoAnhKiet_lab2.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\obj\Debug\_1150080143_VoAnhKiet_lab2.Properties.Resources.resources
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\obj\Debug\1150080143_VoAnhKiet_lab2.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\obj\Debug\1150080143_VoAnhKiet_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\obj\Debug\1150080143_VoAnhKiet_lab2.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi5\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_lab2\1150080143_VoAnhKiet_lab2\obj\Debug\1150080143_VoAnhKiet_lab2.pdb
