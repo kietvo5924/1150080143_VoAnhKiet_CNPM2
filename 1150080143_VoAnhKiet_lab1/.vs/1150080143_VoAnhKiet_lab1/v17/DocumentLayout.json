@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86924762-328B-4FB7-9BB5-272946437A78}|Solution Items{86924762-328B-4FB7-9BB5-272946437A78}|C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\input_array.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86924762-328B-4FB7-9BB5-272946437A78}|Solution Items{86924762-328B-4FB7-9BB5-272946437A78}|solutionrelative:input_array.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi5\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_lab1\\1150080143_voanhkiet_lab1\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB453D05-FB55-437C-970E-18A84CB96D36}|1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1.csproj|solutionrelative:1150080143_voanhkiet_lab1\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thuchanh11.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh11.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh11.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh11.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh11.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:50:46.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "input_array.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\input_array.txt",
+              "RelativeDocumentMoniker": "input_array.txt",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\input_array.txt",
+              "RelativeToolTip": "input_array.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-29T06:48:36.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thuchanh10.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh10.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh10.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh10.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh10.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:35:47.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thuchanh9.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh9.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh9.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh9.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh9.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:32:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thuchanh8.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh8.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh8.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh8.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh8.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:29:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thuchanh7.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh7.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh7.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh7.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh7.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:27:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Thuchanh6.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh6.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh6.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh6.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:25:49.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Thuchanh5.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh5.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh5.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh5.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh5.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:20:28.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Thuchanh4.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh4.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh4.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh4.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh4.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:17:41.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Thuchanh3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh3.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh3.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh3.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh3.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:11:03.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Thuchanh1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh1.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh1.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:06:05.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Thuchanh2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh2.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Thuchanh2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Thuchanh2.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Thuchanh2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:03:58.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Program.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi5\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_lab1\\1150080143_VoAnhKiet_lab1\\Program.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_lab1\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:53:04.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
