@@ -74,7 +74,6 @@
 
         #endregion
 
-        // Khai báo biến cho các control
         private System.Windows.Forms.Button btnMoKetNoi;
         private System.Windows.Forms.Button btnDongKetNoi;
     }

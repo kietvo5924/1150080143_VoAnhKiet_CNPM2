@@ -7,3 +7,4 @@ C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080
 C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_ThucHanh2\1150080143_VoAnhKiet_Lab3_ThucHanh2\obj\Debug\1150080143_VoAnhKiet_Lab3_ThucHanh2.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_ThucHanh2\1150080143_VoAnhKiet_Lab3_ThucHanh2\obj\Debug\1150080143_VoAnhKiet_Lab3_ThucHanh2.exe
 C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_ThucHanh2\1150080143_VoAnhKiet_Lab3_ThucHanh2\obj\Debug\1150080143_VoAnhKiet_Lab3_ThucHanh2.pdb
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_ThucHanh2\1150080143_VoAnhKiet_Lab3_ThucHanh2\obj\Debug\_1150080143_VoAnhKiet_Lab3_ThucHanh2.Form1.resources

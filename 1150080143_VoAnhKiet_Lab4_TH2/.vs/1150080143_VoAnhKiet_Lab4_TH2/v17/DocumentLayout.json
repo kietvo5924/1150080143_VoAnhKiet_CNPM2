@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1150080143_VoAnhKiet_TH2\\Form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1150080143_VoAnhKiet_TH2\\Form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1150080143_VoAnhKiet_TH2\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1150080143_VoAnhKiet_TH2\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1150080143_VoAnhKiet_TH2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form5.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH2\\Form5.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form5.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_TH2\\Form5.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:08:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form3.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH2\\Form3.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form3.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_TH2\\Form3.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:02:28.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form2.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH2\\Form2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form2.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_TH2\\Form2.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:01:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form1.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_TH2\\Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:56:03.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form4.cs",
               "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH2\\Form4.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi6\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_Lab4_TH2\\1150080143_VoAnhKiet_TH2\\Form4.cs",
               "RelativeToolTip": "1150080143_VoAnhKiet_TH2\\Form4.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T07:34:15.124Z",
               "EditorCaption": ""
