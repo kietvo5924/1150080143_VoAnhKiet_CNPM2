@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\bin\Debug\1150080143_VoAnhKiet_Lab3_TH1.exe.config
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\bin\Debug\1150080143_VoAnhKiet_Lab3_TH1.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\bin\Debug\1150080143_VoAnhKiet_Lab3_TH1.pdb
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\obj\Debug\1150080143_VoAnhKiet_Lab3_TH1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\obj\Debug\_1150080143_VoAnhKiet_Lab3_TH1.Properties.Resources.resources
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\obj\Debug\1150080143_VoAnhKiet_Lab3_TH1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\obj\Debug\1150080143_VoAnhKiet_Lab3_TH1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\obj\Debug\1150080143_VoAnhKiet_Lab3_TH1.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi6\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_Lab3_TH1\1150080143_VoAnhKiet_Lab3_TH1\obj\Debug\1150080143_VoAnhKiet_Lab3_TH1.pdb
