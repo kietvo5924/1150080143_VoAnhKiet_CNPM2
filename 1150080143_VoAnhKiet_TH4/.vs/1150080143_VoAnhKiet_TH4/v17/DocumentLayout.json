@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5EA5AD-85B0-4556-B336-47A1678DD121}|1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi7\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_th4\\1150080143_voanhkiet_th4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5EA5AD-85B0-4556-B336-47A1678DD121}|1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4.csproj|solutionrelative:1150080143_voanhkiet_th4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5EA5AD-85B0-4556-B336-47A1678DD121}|1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4.csproj|C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\1150080143_voanhkiet_th4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5EA5AD-85B0-4556-B336-47A1678DD121}|1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4.csproj|solutionrelative:1150080143_voanhkiet_th4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5EA5AD-85B0-4556-B336-47A1678DD121}|1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4.csproj|C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\1150080143_voanhkiet_th4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C5EA5AD-85B0-4556-B336-47A1678DD121}|1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4.csproj|solutionrelative:1150080143_voanhkiet_th4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4\\Form1.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_TH4\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:58:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4\\Form1.Designer.cs",
+              "RelativeToolTip": "1150080143_VoAnhKiet_TH4\\Form1.Designer.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAqwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:58:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH4\\1150080143_VoAnhKiet_TH4\\Form1.cs [Design]",
+              "RelativeToolTip": "1150080143_VoAnhKiet_TH4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:57:08.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

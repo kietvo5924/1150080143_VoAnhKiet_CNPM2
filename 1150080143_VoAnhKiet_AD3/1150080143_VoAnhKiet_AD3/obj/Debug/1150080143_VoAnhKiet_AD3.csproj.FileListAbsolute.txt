@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\bin\Debug\QuanLySinhVien_AD3.mdf
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\bin\Debug\QuanLySinhVien_AD3_log.ldf
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\bin\Debug\1150080143_VoAnhKiet_AD3.exe.config
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\bin\Debug\1150080143_VoAnhKiet_AD3.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\bin\Debug\1150080143_VoAnhKiet_AD3.pdb
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\obj\Debug\1150080143_VoAnhKiet_AD3.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\obj\Debug\_1150080143_VoAnhKiet_AD3.Properties.Resources.resources
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\obj\Debug\1150080143_VoAnhKiet_AD3.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\obj\Debug\1150080143_VoAnhKiet_AD3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\obj\Debug\1150080143_VoAnhKiet_AD3.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_AD3\1150080143_VoAnhKiet_AD3\obj\Debug\1150080143_VoAnhKiet_AD3.pdb

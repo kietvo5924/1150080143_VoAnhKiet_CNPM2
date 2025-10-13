@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/987459379E5AE2CAD201B502C8ABCF02_080143_VOANHKIET_CNPM2_1150080143_VOANHKIET_TH3_1150080143_VOANHKIET_TH3_QUANLYSINHVIEN_TH3.MDF/True/SqlTable/dbo.SinhVien.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81FF7F83-7C34-44B9-A280-E368CC09175C}|1150080143_VoAnhKiet_TH3\\1150080143_VoAnhKiet_TH3.csproj|c:\\users\\admin\\downloads\\ph\u01B0\u01A1ng ph\u00E1p ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m\\buoi7\\1150080143_voanhkiet_cnpm2\\1150080143_voanhkiet_th3\\1150080143_voanhkiet_th3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81FF7F83-7C34-44B9-A280-E368CC09175C}|1150080143_VoAnhKiet_TH3\\1150080143_VoAnhKiet_TH3.csproj|solutionrelative:1150080143_voanhkiet_th3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +30,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dbo.SinhVien [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/987459379E5AE2CAD201B502C8ABCF02_080143_VOANHKIET_CNPM2_1150080143_VOANHKIET_TH3_1150080143_VOANHKIET_TH3_QUANLYSINHVIEN_TH3.MDF/True/SqlTable/dbo.SinhVien.sql",
+              "ToolTip": "dbo.SinhVien [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-13T06:30:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH3\\1150080143_VoAnhKiet_TH3\\Form1.cs",
               "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH3\\Form1.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH3\\1150080143_VoAnhKiet_TH3\\Form1.cs",
               "RelativeToolTip": "1150080143_VoAnhKiet_TH3\\Form1.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBkAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T03:59:56.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH3\\1150080143_VoAnhKiet_TH3\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH3\\Form1.Designer.cs",
@@ -52,14 +65,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH3\\1150080143_VoAnhKiet_TH3\\Form1.cs",
               "RelativeDocumentMoniker": "1150080143_VoAnhKiet_TH3\\Form1.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\Ph\u01B0\u01A1ng Ph\u00E1p Ph\u00E1t Tri\u1EC3n Ph\u1EA7n M\u1EC1m\\Buoi7\\1150080143_VoAnhKiet_CNPM2\\1150080143_VoAnhKiet_TH3\\1150080143_VoAnhKiet_TH3\\Form1.cs [Design]",
               "RelativeToolTip": "1150080143_VoAnhKiet_TH3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T03:56:42.174Z"
+              "WhenOpened": "2025-10-13T03:56:42.174Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\bin\Debug\QuanLySinhVien_TH4.mdf
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\bin\Debug\QuanLySinhVien_TH4_log.ldf
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\bin\Debug\1150080143_VoAnhKiet_TH4.exe.config
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\bin\Debug\1150080143_VoAnhKiet_TH4.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\bin\Debug\1150080143_VoAnhKiet_TH4.pdb
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\obj\Debug\1150080143_VoAnhKiet_TH4.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\obj\Debug\_1150080143_VoAnhKiet_TH4.Properties.Resources.resources
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\obj\Debug\1150080143_VoAnhKiet_TH4.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\obj\Debug\1150080143_VoAnhKiet_TH4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\obj\Debug\1150080143_VoAnhKiet_TH4.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi7\1150080143_VoAnhKiet_CNPM2\1150080143_VoAnhKiet_TH4\1150080143_VoAnhKiet_TH4\obj\Debug\1150080143_VoAnhKiet_TH4.pdb
