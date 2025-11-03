@@ -16,7 +16,7 @@ namespace VoAnhKiet_1150080143_Lab8
     public partial class Form1 : Form
     {
         // Sử dụng đường dẫn CSDL chính xác từ project Lab8 của bạn
-        string strCon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab8\VoAnhKiet_1150080143_Lab8\QuanLySinhVien.mdf"";Integrated Security=True";
+        string strCon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab8\VoAnhKiet_1150080143_Lab8\QuanLySinhVien.mdf;Integrated Security=True";
 
         SqlConnection sqlCon = null;
 
@@ -58,7 +58,7 @@ namespace VoAnhKiet_1150080143_Lab8
                 // Dòng này sẽ hết lỗi sau khi làm Bước 1
                 ReportDataSource rds = new ReportDataSource();
 
-                rds.Name = "ds1"; // Tên này phải trùng với tên DataSet trong file .rdlc
+                rds.Name = "DataSet1"; // Tên này phải trùng với tên DataSet trong file .rdlc
 
                 rds.Value = ds.Tables["SinhVien"];
 
