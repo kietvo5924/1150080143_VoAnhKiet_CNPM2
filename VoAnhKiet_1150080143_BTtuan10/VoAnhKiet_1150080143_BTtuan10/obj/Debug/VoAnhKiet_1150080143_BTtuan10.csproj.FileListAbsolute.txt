@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\obj\Debug\VoAnhKiet_1150080143_BTtuan10.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\obj\Debug\VoAnhKiet_1150080143_BTtuan10.Properties.Resources.resources
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\obj\Debug\VoAnhKiet_1150080143_BTtuan10.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\obj\Debug\VoAnhKiet_1150080143_BTtuan10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\bin\Debug\QuanLyBanSach.mdf
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\bin\Debug\QuanLyBanSach_log.ldf
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\bin\Debug\VoAnhKiet_1150080143_BTtuan10.exe.config
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\bin\Debug\VoAnhKiet_1150080143_BTtuan10.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\bin\Debug\VoAnhKiet_1150080143_BTtuan10.pdb
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\obj\Debug\VoAnhKiet_1150080143_BTtuan10.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_BTtuan10\VoAnhKiet_1150080143_BTtuan10\obj\Debug\VoAnhKiet_1150080143_BTtuan10.pdb
