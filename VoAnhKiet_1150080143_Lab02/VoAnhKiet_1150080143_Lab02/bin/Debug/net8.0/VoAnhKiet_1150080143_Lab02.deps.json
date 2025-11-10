@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VoAnhKiet_1150080143_Lab02/1.0.0": {
+        "runtime": {
+          "VoAnhKiet_1150080143_Lab02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VoAnhKiet_1150080143_Lab02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

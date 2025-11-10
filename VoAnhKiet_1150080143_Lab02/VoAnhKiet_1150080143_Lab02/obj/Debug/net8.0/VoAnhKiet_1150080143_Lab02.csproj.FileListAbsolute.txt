@@ -1,0 +1,61 @@
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.exe
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.deps.json
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.runtimeconfig.json
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.dll
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.pdb
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets\msbuild.VoAnhKiet_1150080143_Lab02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets\msbuild.build.VoAnhKiet_1150080143_Lab02.props
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VoAnhKiet_1150080143_Lab02.props
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VoAnhKiet_1150080143_Lab02.props
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\scopedcss\bundle\VoAnhKiet_1150080143_Lab02.styles.css
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\scopedcss\projectbundle\VoAnhKiet_1150080143_Lab02.bundle.scp.css
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.dll
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\refint\VoAnhKiet_1150080143_Lab02.dll
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.pdb
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Phương Pháp Phát Triển Phần Mềm\Buoi10\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\ref\VoAnhKiet_1150080143_Lab02.dll
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.exe
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.deps.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.runtimeconfig.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.dll
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\bin\Debug\net8.0\VoAnhKiet_1150080143_Lab02.pdb
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.AssemblyInfo.cs
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.sourcelink.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets\msbuild.VoAnhKiet_1150080143_Lab02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets\msbuild.build.VoAnhKiet_1150080143_Lab02.props
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VoAnhKiet_1150080143_Lab02.props
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VoAnhKiet_1150080143_Lab02.props
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\scopedcss\bundle\VoAnhKiet_1150080143_Lab02.styles.css
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\scopedcss\projectbundle\VoAnhKiet_1150080143_Lab02.bundle.scp.css
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.dll
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\refint\VoAnhKiet_1150080143_Lab02.dll
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.pdb
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\VoAnhKiet_1150080143_Lab02.genruntimeconfig.cache
+C:\Users\Admin\Downloads\PPPTPM_ThayHuynh\Buoi11\1150080143_VoAnhKiet_CNPM2\VoAnhKiet_1150080143_Lab02\VoAnhKiet_1150080143_Lab02\obj\Debug\net8.0\ref\VoAnhKiet_1150080143_Lab02.dll
